@@ -82,7 +82,7 @@
     "helmet": "^3.12.1",
     "hide-powered-by": "^1.0.0",
     "hsts": "^2.1.0",
-    "http-errors": "^1.6.3",
+    "http-errors": "1.6.3",
     "ienoopen": "^1.0.0",
     "joi": "~11.4.0",
     "pre-commit": "^1.2.2",
